@@ -1,6 +1,6 @@
 # 👾 Alejandro Díaz
 
-Hola, soy **Alejandro** (‘Ale’ para los cuates, o ‘Díaz’ para los que ya me conocen bien). Soy desarrollador frontend, diseñador UI autodidacta, amante de las microinteracciones y eterno buscador de impacto creativo.
+Hola, soy **Alejandro** (‘Ale’ o ‘Díaz’ para los que ya me conocen bien). Soy desarrollador frontend, diseñador UI autodidacta, amante de las microinteracciones y eterno buscador de impacto creativo.
 
 Me apasiona construir experiencias que se sientan vivas, con scroll fluido, shaders personalizados y efectos que conectan con la vista y el tacto. No hago sitios... hago atmósferas.
 
