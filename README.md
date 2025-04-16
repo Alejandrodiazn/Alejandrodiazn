@@ -1,15 +1,25 @@
-# Sobre Mi: 
+# 👾 Alejandro Díaz
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Hola, soy **Alejandro** (‘Ale’ para los cuates, o ‘Díaz’ para los que ya me conocen bien). Soy desarrollador frontend, diseñador UI autodidacta, amante de las microinteracciones y eterno buscador de impacto creativo.
 
-## Comenzando 🚀
+Me apasiona construir experiencias que se sientan vivas, con scroll fluido, shaders personalizados y efectos que conectan con la vista y el tacto. No hago sitios... hago atmósferas.
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+---
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+## 🔄 Lo que hago
 
+- 📈 **Frontend dev** con React, Tailwind, GSAP, Three.js y Webflow  
+- 🎨 **Diseño UI** con enfoque en storytelling visual  
+- 🛋️ **Landing pages** que respiran, flotan, se transforman  
+- 🛠️ Conexiones a Firebase y CMS headless para sitios vivos  
+- 😹 Experimentos personales con WebGL + shaders + Figma  
 
-### Pre-requisitos 📋
+---
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+## ✨ Tech stack actual
 
+```js
+Frontend:   React · Vite · Tailwind · GSAP · Lenis · Webflow
+Visual:     Figma · Shaders (GLSL) · Three.js · IntersectionObserver
+CMS:        Firebase Firestore · Sanity (explorando)
+Otros:      Git · Vercel · vite-plugin-glsl · Markdown
